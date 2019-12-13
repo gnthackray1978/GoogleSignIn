@@ -3,7 +3,7 @@
 
 React/Redux Project that creates google login button.
 
-clientid & scriptid to be added to the reducer
+clientid & scriptid to be added as default values in reducer
 
 build it with parcel public/main.html
 
